@@ -20,7 +20,7 @@ The following KPIs and trends have been analyzed using SQL:
 - Top 5 and Bottom 5 Pizzas by Revenue
 - Top 5 Pizzas by Quantity Sold
 
-You can find the SQL queries in the [`PIZZA SALES SQL QUERIES.odt`](PIZZA SALES SQL QUERIES.docx) file.
+You can find the SQL queries in the [PIZZA SALES SQL QUERIES.docx](PIZZA%20SALES%20SQL%20QUERIES.docx) file.
 
  Power BI Dashboard
 
